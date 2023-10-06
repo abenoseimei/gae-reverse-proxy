@@ -1,4 +1,4 @@
-runtime: go112
+runtime: go121
 env_variables:
   PORT: 8080
   UPSTREAM: http://1.2.3.4/
